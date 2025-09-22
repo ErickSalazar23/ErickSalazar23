@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Erick Salazar | Hello! I'm Erick Salazar
 
-## 🚀 Transformación Digital & Automatización de Procesos | Digital Transformation & Process Automation
+## 🚀 Freelance Developer | Analista del entorno IA
 
 ---
 
